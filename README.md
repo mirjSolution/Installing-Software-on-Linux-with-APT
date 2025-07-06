@@ -69,6 +69,8 @@ sudo apt remove openjdk-17-jdk
 
 ### ♻️ Update Package List
 
+![update](Images/update.png)
+
 ```bash
 sudo apt update
 ```
