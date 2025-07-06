@@ -109,6 +109,8 @@ java
 
 ## 💡 Tips
 
+![tips](Images/tips.gif)
+
 - Use `apt show <package-name>` to view details about a package
 - If you know a command but not the package:
   ```bash
@@ -117,4 +119,4 @@ java
 
 ---
 
-🧑‍💻 \_Created by Rico John Dato-on
+🧑‍💻 Created by Rico John Dato-on
