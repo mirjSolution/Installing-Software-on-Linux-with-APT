@@ -79,6 +79,8 @@ sudo apt update
 
 ### ⬆️ Upgrade All Packages
 
+![upgrade](Images/upgrade.png)
+
 ```bash
 sudo apt upgrade
 ```
