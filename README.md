@@ -35,7 +35,7 @@ apt search openjdk
 
 ### 📥 Install a Package
 
-![Search](Images/install.png)
+![Install](Images/install.png)
 
 ```bash
 sudo apt install <package-name>
@@ -50,6 +50,8 @@ sudo apt install openjdk-17-jdk
 ---
 
 ### ❌ Remove a Package
+
+![Remove](Images/remove.png)
 
 ```bash
 sudo apt remove <package-name>
