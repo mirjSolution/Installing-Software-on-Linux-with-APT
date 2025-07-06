@@ -19,7 +19,7 @@ APT is the default package manager in Ubuntu.
 
 ## 🛠️ Basic APT Commands
 
-![Search](Images/searrch.png)
+![Search](Images/search.png)
 
 ### 🔍 Search for a Package
 
@@ -34,6 +34,8 @@ apt search openjdk
 ```
 
 ### 📥 Install a Package
+
+![Search](Images/install.png)
 
 ```bash
 sudo apt install <package-name>
