@@ -89,6 +89,8 @@ sudo apt upgrade
 
 ## ✅ Check Software Installation
 
+![check](Images/check.gif)
+
 After installing Java:
 
 ```bash
